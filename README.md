@@ -53,8 +53,6 @@ When it is your opponents turn, he wants to minimize your outcome, therefore it 
 ![alt tag](https://www3.ntu.edu.sg/home/ehchua/programming/java/images/GameTTT_minimax.png)
 
 
-The guide below explains minimax very well:
-http://web.cs.ucla.edu/~rosen/161/notes/minimax.html
 
 ## Alpha-beta pruning:
 
@@ -64,8 +62,6 @@ This is done by keeping track of two values called alpha and beta as you are sea
 Alpha is the maximum lower bound (the lowest score you are willing to accept)  
 Beta is the minimum upper bound (the highest score your opponent is willing to accept)  
 
-The guide below explains alphabeta pruning very well:
-http://web.cs.ucla.edu/~rosen/161/notes/alphabeta.html
 
 
 
