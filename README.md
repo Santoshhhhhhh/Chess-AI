@@ -38,7 +38,6 @@ This is the "intuition" of the chess AI.  Given an 8x8 chess position, the evalu
 
 The evaluation function can take many forms depending on what approach you want to take. You can use hard coded heuristic features. You could take a model based approach (ie. train a neural network), etc etc.
 
-![alt tag](http://www.neurosciencemarketing.com/wp-content/uploads/2015/06/einstein-valuable-540x338.jpg)
 
 ## Minimax algorithm:
 
